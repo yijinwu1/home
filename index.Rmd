@@ -1,0 +1,25 @@
+---
+title: "小瑾學習"
+author: "wuyijin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<hr/>
+### 安裝
+- <a href="https://github.com/yijinwu1/Installation-Manual" target="_blank">軟體安裝步驟</a>
+- <a href="https://yijinwu1.github.io/R/R.html" target="_blank">安裝R</a>
+- <a href="https://yijinwu1.github.io/R/RStudio.html" target="_blank">安裝RStudio</a>
+
+
+### R
+- <a href="https://yijinwu1.github.io/R/" target="_blank">R學習筆記</a>
+
+### 閱讀
+- <a href="https://github.com/yijinwu1/The-Reflection-of-Reading" target="_blank">書籍摘要</a>
+
+### 散文
+- <a href="https://github.com/yijinwu1/writing" target="_blank">自我散記</a>
+
