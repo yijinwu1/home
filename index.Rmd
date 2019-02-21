@@ -1,5 +1,5 @@
 ---
-title: "小瑾筆記本"
+title: "小瑾筆記簿"
 author: "wuyijin"
 ---
 
