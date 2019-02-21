@@ -21,10 +21,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - <a href="https://yijinwu1.github.io/R/" target="_blank">R學習筆記</a>
 
 <hr/>
-## 讀書心得
+## 心得
 - <a href="https://github.com/yijinwu1/The-Reflection-of-Reading/tree/master/book" target="_blank">書籍摘要</a>
 - <a href="https://github.com/yijinwu1/The-Reflection-of-Reading/tree/master/Lecture" target="_blank">講座摘要</a>
 - <a href="https://github.com/yijinwu1/The-Reflection-of-Reading/tree/master/network" target="_blank">網路文章</a>
+- <a href="https://github.com/yijinwu1/The-Reflection-of-Reading/tree/master/document" target="_blank">參考文件</a>
 
 ### 打作文
 - <a href="https://github.com/yijinwu1/writing" target="_blank">自我散記</a>
