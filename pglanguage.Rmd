@@ -12,4 +12,4 @@ knitr::opts_chunk$set(echo = TRUE)
 <hr/>
 ## R安裝
 - <a href="https://yijinwu1.github.io/R/R.html" target="_blank">CRAN</a>
-- <a href="https://yijinwu1.github.io/R/R.html" target="_blank">RStudio</a>
+- <a href="https://yijinwu1.github.io/R/RStudio.html" target="_blank">RStudio</a>
