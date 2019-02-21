@@ -1,0 +1,14 @@
+---
+title: "系統虛擬機器安裝"
+author: "wuyijin"
+date: "2019年2月21日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<hr/>
+## ▓ <a href="https://github.com/yijinwu1/Installation-Manual/tree/master/virtualbox" target="_blank">VirtualBox</a>
+## ▓ <a href="https://github.com/yijinwu1/Installation-Manual/tree/master/Vagrant" target="_blank">Vagrant</a>

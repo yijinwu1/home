@@ -1,0 +1,15 @@
+---
+title: "程式語言編譯器"
+author: "wuyijin"
+date: "2019年2月21日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<hr/>
+## R安裝
+- <a href="https://yijinwu1.github.io/R/R.html" target="_blank">CRAN</a>
+- <a href="https://yijinwu1.github.io/R/R.html" target="_blank">RStudio</a>

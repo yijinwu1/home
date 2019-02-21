@@ -1,5 +1,5 @@
 ---
-title: "小瑾學習"
+title: "小瑾筆記本"
 author: "wuyijin"
 ---
 
@@ -8,18 +8,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <hr/>
-### 安裝
-- <a href="https://github.com/yijinwu1/Installation-Manual" target="_blank">軟體安裝步驟</a>
-- <a href="https://yijinwu1.github.io/R/R.html" target="_blank">安裝R</a>
-- <a href="https://yijinwu1.github.io/R/RStudio.html" target="_blank">安裝RStudio</a>
+## 安裝
+- <a href="https://yijinwu1.github.io/home/sysvm.html" target="_blank">虛擬機</a>
+- <a href="https://yijinwu1.github.io/home/os.html" target="_blank">作業系統</a>
+- <a href="https://yijinwu1.github.io/R/" target="_blank">程式語言編譯器</a>
 
+## 輔助工具
+- <a href="https://github.com/yijinwu1/Excel" target="_blank">Excel</a>
+- (施工中)notepad++
 
-### R
+## 程式語言
 - <a href="https://yijinwu1.github.io/R/" target="_blank">R學習筆記</a>
 
-### 閱讀
+## 讀書心得
 - <a href="https://github.com/yijinwu1/The-Reflection-of-Reading" target="_blank">書籍摘要</a>
 
-### 散文
+### 打作文
 - <a href="https://github.com/yijinwu1/writing" target="_blank">自我散記</a>
 
