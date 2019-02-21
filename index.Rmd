@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## 安裝
 - <a href="https://yijinwu1.github.io/home/sysvm.html" target="_blank">虛擬機</a>
 - <a href="https://yijinwu1.github.io/home/os.html" target="_blank">作業系統</a>
-- <a href="https://yijinwu1.github.io/R/" target="_blank">程式語言編譯器</a>
+- <a href="https://yijinwu1.github.io/home/pglanguage.html" target="_blank">程式語言編譯器</a>
 
 ## 輔助工具
 - <a href="https://github.com/yijinwu1/Excel" target="_blank">Excel</a>
