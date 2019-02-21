@@ -14,14 +14,17 @@ knitr::opts_chunk$set(echo = TRUE)
 - <a href="https://yijinwu1.github.io/home/pglanguage.html" target="_blank">程式語言編譯器</a>
 
 ## 輔助工具
-- <a href="https://github.com/yijinwu1/Excel" target="_blank">Excel</a>
+- <a href="https://github.com/yijinwu1/tool/tree/master/excel" target="_blank">Excel</a>
 - (施工中)notepad++
 
 ## 程式語言
 - <a href="https://yijinwu1.github.io/R/" target="_blank">R學習筆記</a>
 
+<hr/>
 ## 讀書心得
-- <a href="https://github.com/yijinwu1/The-Reflection-of-Reading" target="_blank">書籍摘要</a>
+- <a href="https://github.com/yijinwu1/The-Reflection-of-Reading/tree/master/book" target="_blank">書籍摘要</a>
+- <a href="https://github.com/yijinwu1/The-Reflection-of-Reading/tree/master/Lecture" target="_blank">講座摘要</a>
+- <a href="https://github.com/yijinwu1/The-Reflection-of-Reading/tree/master/network" target="_blank">網路文章</a>
 
 ### 打作文
 - <a href="https://github.com/yijinwu1/writing" target="_blank">自我散記</a>
