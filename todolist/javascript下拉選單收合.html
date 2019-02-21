@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body onload="init()">
+<table BORDER="0">
+	<tr>
+		<td ALIGN=center colspan="3"><h1>&nbsp;小瑾筆記簿&nbsp;</h1></td>
+	</tr>
+	<tr>
+		<td ALIGN=center colspan="3"><h2><I>&nbsp;wuyijin&nbsp;</I></h2></td>
+	</tr>	
+	<tr>
+		<td>&nbsp;&nbsp;</td>
+		<td ALIGN=center>
+		<input id="chk1" type="button" value="安裝" 
+		onclick="if(document.getElementById('myid1').style.display=='none'){document.getElementById('myid1').style.display = 'block';}
+		else{document.getElementById('myid1').style.display='none'}" />
+        </td>
+		<td>&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+		<td><h3>&nbsp;&nbsp;</h3></td>
+		<td ALIGN=center>&nbsp;&nbsp;</td>
+		<td><span id="myid1" style="display:none;"><a href="https://yijinwu1.github.io/R/" target="_blank">系統虛擬機器</span>
+		</td>
+	</tr>	
+</table>
+
+<hr>
+<input id="chk2" type="button" value="查看2" onclick="if(document.getElementById('myid2').style.display=='none'){document.getElementById('myid2').style.display = 'block';}else{document.getElementById('myid2').style.display='none'}" />
+<span id="myid2" style="display:none;">資料2</span>
+</body>
+</html>
