@@ -19,6 +19,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## 程式語言
 - <a href="https://yijinwu1.github.io/R/" target="_blank">R學習筆記</a>
+- <a href="https://yijinwu1.github.io/SQL/" target="_blank">SQL</a>
+
+## 資料分析文件
+- <a href="https://github.com/yijinwu1/The-Reflection-of-Reading/tree/master/data" target="_blank">文件</a>
+
 
 <hr/>
 ## 心得
