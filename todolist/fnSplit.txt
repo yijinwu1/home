@@ -1,0 +1,32 @@
+CREATE FUNCTION [dbo].[fn_SplitStrToTable]
+    (
+	  @PInStrSource varchar(1000) = NULL, 
+      @pInChrSeparator char(1) = ','
+	)
+	RETURNS 
+		@ARRAY TABLE (ItemValue VARCHAR(100),RowNo INT)
+AS
+BEGIN
+	DECLARE @CurrentStr varchar(2000)
+	DECLARE @ItemStr varchar(200)
+	DECLARE @intX INT
+	SET @intX = 1
+	SET @CurrentStr = @PInStrSource
+	 
+	WHILE Datalength(@CurrentStr) > 0
+	BEGIN
+		IF CHARINDEX(@pInChrSeparator, @CurrentStr,1) > 0 
+			BEGIN
+	           	SET @ItemStr = SUBSTRING (@CurrentStr, 1, CHARINDEX(@pInChrSeparator, @CurrentStr,1) - 1)
+	            SET @CurrentStr = SUBSTRING (@CurrentStr, CHARINDEX(@pInChrSeparator, @CurrentStr,1) + 1, (Datalength(@CurrentStr) - CHARINDEX(@pInChrSeparator, @CurrentStr,1) + 1))
+				INSERT @ARRAY (RowNo,ItemValue) VALUES (@intX,@ItemStr)
+	   		END
+		 ELSE
+		 	BEGIN                
+				INSERT @ARRAY (RowNo,ItemValue) VALUES (@intX,@CurrentStr)	 		
+	           	BREAK;
+	       	 END 
+	    SET @intX = @intX + 1
+	END
+	RETURN
+END
