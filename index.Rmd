@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##### 輔助工具
 - <a href="https://github.com/yijinwu1/tool/tree/master/excel" target="_blank">Excel</a>
-- (施工中)notepad++
+- <a href="https://github.com/yijinwu1/tool/tree/master/notepad%2B%2B" target="_blank">notepad++</a>
 
 ##### 程式語言
 - <a href="https://yijinwu1.github.io/R/" target="_blank">R學習筆記</a>
